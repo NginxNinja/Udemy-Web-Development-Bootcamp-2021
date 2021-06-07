@@ -1,0 +1,9 @@
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+Giant List of Resources:
+https://www.appbrewery.co/p/web-development-course-resources/
+
+VSCode Extensions Recommended:
+https://docs.google.com/document/d/e/2PACX-1vQDcdmrkjNPlOSeqS-v99P-57h5f7Yo3pszkko1sN6OtIVlNBFgTyeTX3A1mDSOdw1Ugb1l5o0NVy-a/pub
+
+Documentation website: https://devdocs.io/
