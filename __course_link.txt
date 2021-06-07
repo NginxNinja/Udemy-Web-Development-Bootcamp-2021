@@ -7,3 +7,7 @@ VSCode Extensions Recommended:
 https://docs.google.com/document/d/e/2PACX-1vQDcdmrkjNPlOSeqS-v99P-57h5f7Yo3pszkko1sN6OtIVlNBFgTyeTX3A1mDSOdw1Ugb1l5o0NVy-a/pub
 
 Documentation website: https://devdocs.io/
+
+Emmet Cheat Sheet - VSCode Plugin
+https://docs.emmet.io/cheat-sheet/
+
