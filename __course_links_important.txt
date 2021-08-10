@@ -11,3 +11,6 @@ Documentation website: https://devdocs.io/
 Emmet Cheat Sheet - VSCode Plugin
 https://docs.emmet.io/cheat-sheet/
 
+CSS colors - https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+https://colorhunt.co/ - for the hexadecimal values of the colors to be used in CSS.
