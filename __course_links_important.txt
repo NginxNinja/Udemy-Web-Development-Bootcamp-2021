@@ -14,3 +14,7 @@ https://docs.emmet.io/cheat-sheet/
 CSS colors - https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 
 https://colorhunt.co/ - for the hexadecimal values of the colors to be used in CSS.
+
+Discord channel:
+https://discord.com/channels/743099782431637545/744069923084435488
+UN: kenmen
