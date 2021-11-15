@@ -3,6 +3,9 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 Giant List of Resources:
 https://www.appbrewery.co/p/web-development-course-resources/
 
+Real-time practice environment for HTML,CSS,JavaScript:
+https://codepen.io
+
 VSCode Extensions Recommended:
 https://docs.google.com/document/d/e/2PACX-1vQDcdmrkjNPlOSeqS-v99P-57h5f7Yo3pszkko1sN6OtIVlNBFgTyeTX3A1mDSOdw1Ugb1l5o0NVy-a/pub
 
@@ -18,3 +21,6 @@ https://colorhunt.co/ - for the hexadecimal values of the colors to be used in C
 Discord channel:
 https://discord.com/channels/743099782431637545/744069923084435488
 UN: kenmen
+
+Front-end challenges and get more practice with HTML and CSS
+https://www.frontendmentor.io
